@@ -56,7 +56,7 @@ export default function Home() {
   }, [])
 
   return (
-      <section className='py-10'>
+      <section className='py-10 px-5'>
         <div className='container mx-auto max-w-3xl'>
           <div className='flex items-end'>
             <div className='flex-1'>
